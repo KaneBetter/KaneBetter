@@ -21,9 +21,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Python       38 mins         █████████████████▒░░░░░░░   69.20 %
-Markdown     16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       59 mins         ███████████████████▒░░░░░   77.65 %
+Markdown     16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
