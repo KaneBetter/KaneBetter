@@ -21,9 +21,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 16 mins   ████████████████████░░░░░   80.39 %
-C++      33 mins         █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python       2 hrs 34 mins   ███████████████████▓░░░░░   78.74 %
+C++          33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
