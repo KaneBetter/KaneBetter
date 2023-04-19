@@ -21,12 +21,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-YAML         1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-Python       1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-TypeScript   58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-Docker       28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python     1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.64 %
+YAML       1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.21 %
+Docker     28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Bash       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
