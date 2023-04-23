@@ -22,7 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ```text
 Docker     21 mins         ██████████▓░░░░░░░░░░░░░░   42.80 %
-Go         13 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 %
+Go         13 mins         ███████░░░░░░░░░░░░░░░░░░   27.39 %
 Bash       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
 Makefile   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 YAML       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
